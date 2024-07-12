@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h4 align="center">I'm an aspiring future iOS and Web developer! Currently looking for job/internship opportunities to learn and enhance my skills.</h4>
-- 🎓👨🏻‍💻 Studying Mobile App Development at University WSB Merito 
+- 📚 Studying Mobile App Development at University WSB Merito 
 
 - 🌱 I’m currently learning **SwiftUI and Web Development**
 
