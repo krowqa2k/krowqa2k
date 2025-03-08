@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **email: krafcik226@gmail.com or linkedin below**
 
-- ⚡ Fun facts about Me: **I'm big sports fan. I am mostly passionate about Football, Basketball and F1**
+- ⚡ Fun facts about Me: **I'm a big sports fan. I'm especially passionate about football, basketball, and F1. I'm also a huge Star Wars enjoyer! 😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
