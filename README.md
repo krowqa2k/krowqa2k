@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SwiftUI and iOS Development**
 
-- 📫 How to reach me **email: krafcik226@gmail.com or linkedin below**
+- 📫 How to reach me **email: mateusz.dev@krowczynski.ovh or linkedin below**
 
 - ⚡ Fun facts about Me: **I'm a big sports fan. I'm especially passionate about football, basketball, and F1. I'm also a huge Star Wars enjoyer! 😃**
 
