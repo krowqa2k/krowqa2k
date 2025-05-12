@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h4 align="center">I'm an aspiring iOS developer, currently looking for job or internship opportunities to learn and enhance my skills.</h4>
 
-<h5 align="left>Currently developing my first iOS app for the App Store — a productivity tool to help students manage their schedule, track study sessions with a Pomodoro timer, stay on top of assignments, take notes (including transcribed and scanned ones), and monitor class attendance."</h5>
+<h4 align="left>Currently developing my first iOS app for the App Store — a productivity tool to help students manage their schedule, track study sessions with a Pomodoro timer, stay on top of assignments, take notes (including transcribed and scanned ones), and monitor class attendance."</h4>
 
 - 📚 Studying Mobile App Development at **University WSB Merito**
 
