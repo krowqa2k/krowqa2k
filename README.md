@@ -3,7 +3,7 @@
 
 👨‍💻 Currently developing my first iOS app for the App Store — a productivity tool to help students manage their schedule, track study sessions with a Pomodoro timer, stay on top of assignments, take notes (including transcribed and scanned ones), and monitor class attendance.
 
-- 📚 Studying Mobile App Development at **University WSB Merito**
+- 📚 Studying Computer Engineering at Wrocław University of Science and Technology**
 
 - 🌱 I’m currently learning **SwiftUI and iOS Development**
 
